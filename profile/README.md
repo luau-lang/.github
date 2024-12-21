@@ -8,6 +8,6 @@ Our main [luau repository](https://github.com/luau-lang/luau) hosts source code 
 
 We also have other repositories that host satellite materials:
 
-- [site repository](https://github.com/luau-lang/site) hosts documentation for the language and is available at https://luau-lang.org/; pull requests improving documentation are always welcome!
+- [site repository](https://github.com/luau-lang/site) hosts documentation for the language and is available at https://luau.org/; pull requests improving documentation are always welcome!
 - [rfcs repository](https://github.com/luau-lang/rfcs) hosts language and library proposals and is the way to discuss language evolution. The RFC process is [documented in the repository's README](https://github.com/luau-lang/rfcs/blob/master/README.md).
 - [research repository](https://github.com/luau-lang/research) hosts academic white papers that we've published relating to Luau goals and implementation. You might also be interested in [a machine verified implementation of a subset of the type system](https://github.com/luau-lang/agda-typeck).
